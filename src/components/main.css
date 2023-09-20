@@ -1,0 +1,24 @@
+.logo{
+    color: #ff6967 !important;
+    font-size: 16px !important;
+    font-weight: 600;
+}
+.signup{
+    background-color: #ff6967 !important;
+    border: none !important;
+    border-radius: 20px !important;
+}
+.headerSub{
+    margin-left: 550px;
+}
+.navCont{
+    margin-right: 15px;
+}
+.f-Content{
+    font-size: 45px;
+    font-weight: 600;
+}
+.myimage{
+    height: 400px;
+    border-radius: 5px;
+}
