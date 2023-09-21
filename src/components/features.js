@@ -11,7 +11,7 @@ function Features(){
             <Row>
                 <Col>
                     <h className="f-Content">Search millions <br></br>of apartment <br></br>for rent</h>
-                    <p className="text-muted">loooking for home or moving to another <br></br>apartment easily</p>
+                    <p className="text-muted">loooking for homes or moving to another <br></br>apartment easily</p>
                     <div className="mt-5"></div>
                     <Button variant="primary" className='signup'>Search now</Button>{' '}
 
